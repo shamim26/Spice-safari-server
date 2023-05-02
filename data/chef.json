@@ -1,0 +1,280 @@
+[
+  {
+    "chefId": 1,
+    "name": "Ritu Dalmia",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 50,
+    "likes": 1200,
+    "picture": "https://i.ibb.co/GTtpYth/chef-1.jpg",
+    "bio": "Ritu Dalmia is a well-known Indian chef who specializes in Italian cuisine. She is the owner of several successful restaurants in India and has won numerous awards for her culinary achievements. ",
+    "recipes": [
+      {
+        "recipe_id": "r001",
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "butter",
+          "onion",
+          "tomato",
+          "cream"
+        ],
+        "cooking_method": "1. Marinate the chicken in a mixture of yogurt and spices for 30 minutes. 2. Fry the chicken in butter until cooked through. 3. In a separate pan, cook onions and tomatoes until they are soft. 4. Add the cooked chicken to the pan with the onions and tomatoes. 5. Stir in cream and simmer until the sauce thickens.",
+        "rating": 4.5,
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400"
+      },
+      {
+        "recipe_id": "r002",
+        "recipe_name": "Palak Paneer",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onion",
+          "tomato",
+          "ginger-garlic paste"
+        ],
+        "cooking_method": "1. Cook spinach in boiling water for 2 minutes. 2. Blend the cooked spinach with onion, tomato, and ginger-garlic paste. 3. Fry paneer until golden brown. 4. Add the spinach mixture to the pan with the paneer. 5. Simmer for 10 minutes.",
+        "rating": 4.2,
+        "recipe_image": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg"
+      },
+      {
+        "recipe_id": "r003",
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "chickpeas",
+          "onion",
+          "tomato",
+          "ginger-garlic paste",
+          "garam masala"
+        ],
+        "cooking_method": "1. Cook chickpeas until they are tender. 2. Fry onion until it turns brown. 3. Add ginger-garlic paste and fry for 1 minute. 4. Add tomato and cook until it turns soft. 5. Add garam masala and chickpeas to the pan. 6. Simmer for 10 minutes.",
+        "rating": 4.0,
+        "recipe_image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/chana-masala-recipe.jpg"
+      }
+    ]
+  },
+  {
+    "chefId": 2,
+    "name": "Sanjeev Kapoor",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 100,
+    "likes": 2000,
+    "picture": "https://i.ibb.co/vwcgCth/chef-3.jpg",
+    "bio": "Sanjeev Kapoor is a renowned Indian chef and entrepreneur who has been in the culinary industry for over 30 years. He has authored numerous cookbooks and hosted several cooking shows, making him a household name in India. ",
+    "recipes": [
+      {
+        "recipe_id": "r001",
+        "recipe_name": "Chicken Handi",
+        "ingredients": [
+          "Chicken",
+          "Onion",
+          "Tomatoes",
+          "Red Chili Powder",
+          "Green chilli"
+        ],
+        "cooking_method": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.\r\nTo the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.\r\nThen return the fried onion to the pot and stir. Add ginger paste and sauté well.\r\nNow add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.\r\nNext goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.\r\nAdd the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through.",
+        "rating": 4.7,
+        "recipe_image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+      },
+      {
+        "recipe_id": "r002",
+        "recipe_name": "Dal fry",
+        "ingredients": ["Toor dal", "Onion", "Water", "Ghee", "salt"],
+        "cooking_method": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.\r\nCook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.\r\nIn a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.\r\nAdd tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.\r\nAdd cilantro and garam masala cook for about one minute.\r\nPour the seasoning over dal mix it well and cook for another minute.\r\nServe with Naan.",
+        "rating": 4.2,
+        "recipe_image": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg"
+      },
+      {
+        "recipe_id": "r003",
+        "recipe_name": "Kidney Bean Curry",
+        "ingredients": [
+          "Vegetable Oil",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Kidney Beans"
+        ],
+        "cooking_method": "Heat the oil in a large frying pan over a low-medium heat. Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to colour. Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant.\r\n\r\nAdd the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil.\r\n\r\nTurn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves.",
+        "rating": 4.3,
+        "recipe_image": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg"
+      }
+    ]
+  },
+  {
+    "chefId": 3,
+    "name": "Vikas Khanna",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 75,
+    "likes": 1500,
+    "picture": "https://i.ibb.co/RvLxSJC/chef-2.jpg",
+    "bio": "Vikas Khanna is an Indian-American Michelin-starred chef, restaurateur, cookbook writer, filmmaker and humanitarian. He has hosted several cooking shows and has been a judge on popular culinary shows.",
+    "recipes": [
+      {
+        "recipe_id": "r001",
+        "recipe_name": "Lamb Biryani",
+        "ingredients": ["Lamb", "Onion", "Tomatoes", "Full fat yogurt", "salt"],
+        "cooking_method": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. \r\n\r\nDeep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside.\r\n\r\nWash the rice and soak in water for twenty minutes.\r\nMeanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.\r\nThen add the tomatoes and sauté them well till they are cooked and not mushy.\r\n\r\nThen to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.\r\nAdd the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.\r\n\r\nNow after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well.",
+        "rating": 4.5,
+        "recipe_image": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg"
+      },
+      {
+        "recipe_id": "r002",
+        "recipe_name": "Lamb Rogan josh",
+        "ingredients": [
+          "Sunflower Oil",
+          "Onion",
+          "Lamb",
+          "Red Chili Powder",
+          "salt"
+        ],
+        "cooking_method": "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice.",
+        "rating": 4.3,
+        "recipe_image": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg"
+      },
+      {
+        "recipe_id": "r003",
+        "recipe_name": "Matar Paneer",
+        "ingredients": [
+          "Paneer",
+          "Naan Bread",
+          "Tomatoes",
+          "Red Chili Powder",
+          "salt"
+        ],
+        "cooking_method": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.\r\nPut the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice",
+        "rating": 4.0,
+        "recipe_image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg"
+      }
+    ]
+  },
+  {
+    "chefId": 4,
+    "name": "Tarla Dalal",
+    "yearsOfExperience": 40,
+    "numberOfRecipes": 200,
+    "likes": 2500,
+    "picture": "https://i.ibb.co/HK46sQn/chef-6.jpg",
+    "bio": "Tarla Dalal was a famous Indian cookbook author and chef who wrote over 100 cookbooks in her lifetime. She was known for her simple and easy-to-follow recipes that made cooking accessible to everyone.",
+    "recipes": [
+      {
+        "recipe_id": "r001",
+        "recipe_name": "Lamb Rogan josh",
+        "ingredients": [
+          "Sunflower Oil",
+          "Onion",
+          "Lamb",
+          "Red Chili Powder",
+          "salt"
+        ],
+        "cooking_method": "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice.",
+        "rating": 4.3,
+        "recipe_image": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg"
+      },
+
+      {
+        "recipe_id": "r002",
+        "recipe_name": "Masala Dosa",
+        "ingredients": ["rice", "urad dal", "potatoes", "onion", "spices"],
+        "cooking_method": "1. Soak rice and urad dal separately for 6 hours. 2. Grind the soaked rice and urad dal separately to make a batter. 3. Mix the two batters together and let it ferment overnight. 4. Peel and boil potatoes, then mash them with spices. 5. Spread the dosa batter on a hot griddle and cook until crispy. 6. Add the potato filling to the center of the dosa, fold and serve.",
+        "rating": 4.7,
+        "recipe_image": "https://recipes.net/wp-content/uploads/2021/10/masala-dosa-recipe-1024x576.jpg"
+      },
+
+      {
+        "recipe_id": "r003",
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "spices"],
+        "cooking_method": "1. Blanch spinach and puree it in a blender. 2. Sauté onions and tomatoes in oil until they turn soft. 3. Add the spinach puree to the pan and cook for a few minutes. 4. Cut paneer into small cubes and add it to the pan. 5. Simmer for a few minutes until the paneer is heated through. 6. Serve with rice or naan.",
+        "rating": 4.6,
+        "recipe_image": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg"
+      }
+    ]
+  },
+  {
+    "chefId": 5,
+    "name": "Manish Mehrotra",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 50,
+    "likes": 1000,
+    "picture": "https://i.ibb.co/R02W3Tx/chef-4.jpg",
+    "bio": "Manish Mehrotra is a renowned Indian chef who is known for his innovative take on traditional Indian cuisine. He is the executive chef at Indian Accent, a restaurant that has been ranked as the best restaurant in India by several publications. ",
+    "recipes": [
+      {
+        "recipe_id": "r001",
+        "recipe_name": "Masala Chai Pancakes",
+        "ingredients": [
+          "flour",
+          "baking powder",
+          "masala chai powder",
+          "milk",
+          "egg"
+        ],
+        "cooking_method": "1. Mix together flour, baking powder, and masala chai powder. 2. Whisk in milk and egg until batter is smooth. 3. Cook pancakes in a greased pan over medium heat. 4. Serve with honey and chopped nuts.",
+        "rating": 4.8,
+        "recipe_image": "https://4.bp.blogspot.com/--9g0UjQcTcU/VTSD8lZdSLI/AAAAAAAAFYE/AKqBSYCFrSI/s1600/100_6121.JPG"
+      },
+      {
+        "recipe_id": "r002",
+        "recipe_name": "Mushroom Korma",
+        "ingredients": [
+          "mushrooms",
+          "onion",
+          "ginger",
+          "garlic",
+          "coconut milk"
+        ],
+        "cooking_method": "1. Fry onion, ginger, and garlic until they turn golden brown. 2. Add mushrooms and cook for 5 minutes. 3. Pour in coconut milk and simmer until the sauce thickens. 4. Season with salt and serve with rice.",
+        "rating": 4.6,
+        "recipe_image": "https://4.bp.blogspot.com/-lYeAhsNXl5s/WxXsltFMMUI/AAAAAAAAu1E/3I7LHIq7tcASbuRXImRMc4N0_44qh0wKgCLcBGAs/s1600/DSC_0833-4.jpg"
+      },
+      {
+        "recipe_id": "r003",
+        "recipe_name": "Palak Paneer Lasagna",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "lasagna noodles",
+          "tomato sauce",
+          "cheese"
+        ],
+        "cooking_method": "1. Blanch spinach and blend it with paneer to make a creamy filling. 2. Cook lasagna noodles until they are al dente. 3. Layer lasagna noodles, spinach-paneer mixture, and tomato sauce in a baking dish. 4. Sprinkle cheese on top and bake in the oven until the cheese melts and turns golden brown.",
+        "rating": 4.9,
+        "recipe_image": "https://3.bp.blogspot.com/-rcYsaYc0nA4/VQo0eXbw-LI/AAAAAAAAyTU/UY4QAHvjZP4/s1600/IMG_0442.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gaggan Anand",
+    "experience": 15,
+    "numberOfRecipes": 100,
+    "likes": 5000,
+    "image": "https://i.ibb.co/pPYqKdR/chef-5.jpg",
+    "bio": "Gaggan Anand is an Indian chef who is best known for his innovative approach to Indian cuisine. He has over 15 years of experience and has worked in some of the world's best restaurants, including El Bulli in Spain and The Fat Duck in the UK.",
+    "recipes": [
+      {
+        "recipe_id": "r001",
+        "recipe_name": "Masala Dosa",
+        "ingredients": ["rice", "urad dal", "potato", "onion", "spices"],
+        "cooking_method": "1. Soak rice and urad dal for 6 hours. 2. Grind them together to make a batter. 3. Ferment the batter overnight. 4. Peel and mash boiled potatoes. 5. Fry onion and spices in oil. 6. Add mashed potatoes and cook for a few minutes. 7. Heat a non-stick pan and pour the batter on it. 8. Spread the batter with a ladle to make a thin crepe. 9. Add the potato filling in the center of the crepe. 10. Fold the crepe and serve hot.",
+        "rating": 4.7,
+        "recipe_image": "https://recipes.net/wp-content/uploads/2021/10/masala-dosa-recipe-1024x576.jpg"
+      },
+      {
+        "recipe_id": "r002",
+        "recipe_name": "Chana Masala",
+        "ingredients": ["chickpeas", "onion", "tomato", "ginger", "spices"],
+        "cooking_method": "1. Soak chickpeas overnight. 2. Boil the chickpeas until they are tender. 3. Fry onion and ginger in oil until they turn brown. 4. Add tomatoes and cook until they turn soft. 5. Add spices and cook for a few minutes. 6. Add the boiled chickpeas and cook for a few more minutes. 7. Garnish with coriander leaves and serve hot with rice or naan.",
+        "rating": 4.5,
+        "recipe_image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/chana-masala-recipe.jpg"
+      },
+      {
+        "recipe_id": "r003",
+        "recipe_name": "Rogan Josh",
+        "ingredients": ["lamb", "onion", "tomato", "yogurt", "spices"],
+        "cooking_method": "1. Marinate lamb in yogurt and spices for 2 hours. 2. Fry onion until it turns brown. 3. Add the marinated lamb to the pan with the onions. 4. Cook until the lamb is browned on all sides. 5. Add tomatoes and cook until they turn soft. 6. Add water and cook until the lamb is fully cooked. 7. Garnish with coriander leaves and serve hot with rice or naan.",
+        "rating": 4.3,
+        "recipe_image": "https://www.easypeasyfoodie.com/wp-content/uploads/2017/07/Chicken-Rogan-Josh-1.jpg"
+      }
+    ]
+  }
+]

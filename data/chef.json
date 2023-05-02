@@ -195,7 +195,7 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 50,
     "likes": 1000,
-    "picture": "https://i.ibb.co/R02W3Tx/chef-4.jpg",
+    "picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
     "bio": "Manish Mehrotra is a renowned Indian chef who is known for his innovative take on traditional Indian cuisine. He is the executive chef at Indian Accent, a restaurant that has been ranked as the best restaurant in India by several publications. ",
     "recipes": [
       {
@@ -245,7 +245,7 @@
   {
     "chefId": 6,
     "name": "Gaggan Anand",
-    "experience": 15,
+    "yearsOfExperience": 15,
     "numberOfRecipes": 100,
     "likes": 5000,
     "picture": "https://i.ibb.co/pPYqKdR/chef-5.jpg",
